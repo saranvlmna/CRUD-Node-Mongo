@@ -8,7 +8,7 @@
     "start": "node src/server.js"
   },
   "author": "Saranjith P",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "convict": "^6.2.3",
