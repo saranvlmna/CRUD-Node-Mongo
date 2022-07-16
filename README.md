@@ -1,9 +1,13 @@
-# CRUD-Node-Mongo
+## CRUD
 
-first install dependencies
+## Description
+node js mongodb CRUD aplication
+
+
+## install
 npm i
 
-Run aplication
+## start
 Type: npm run dev or npm start
 
 User api
@@ -12,3 +16,7 @@ User api
 Movies api
 /
 
+## author
+Saranjith P visit: https://sarancom.web.app/
+
+Thanks for using this app
